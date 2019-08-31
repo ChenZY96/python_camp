@@ -1,0 +1,5 @@
+Albert|Albert123|3000
+Amy|123|300
+test|qaz|2000.0
+testt|qwe|2000.0
+testtt|qaz|999.0
